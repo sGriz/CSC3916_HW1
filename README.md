@@ -1,2 +1,0 @@
-# CSC3916_HW1
-Web API HW1
